@@ -16,3 +16,4 @@ for num in range(lower, upper + 1):
            print(num)
 
 
+#todos los primos entre los numero dados
